@@ -1,0 +1,12 @@
+[
+    { "title" : "Harry Potter", 
+    "author" : "Rowling", 
+    "Expected_Result"  : "Harry Potter and the Half-Blood Prince"
+    },
+    
+    { "title" : "Lord of the Rings", 
+    "author" : "Tolkien", 
+    "Expected_Result" : "The Lord of the Rings"
+    }
+    
+  ]

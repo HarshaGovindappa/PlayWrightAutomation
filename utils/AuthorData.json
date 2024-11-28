@@ -1,0 +1,14 @@
+[
+    { "title" : "Harry Potter", 
+    "author" : "Rowling", 
+    "name"  : "J. K. Rowling", 
+    "website" : "http://www.jkrowling.com/" 
+    },
+    
+    { "title" : "Lord of the Rings", 
+    "author" : "Tolkien", 
+    "name" : "J.R.R. Tolkien", 
+    "website" : "http://www.tolkiensociety.org/index.html" 
+    }
+    
+  ]
