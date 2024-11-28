@@ -2,6 +2,8 @@
 
 This framework provides a comprehensive suite of automated tests for the Open Library website. It leverages Playwright for end-to-end testing of both the User Interface (UI) and the backend Application Programming Interface (API).
 
+**Test Cases.xlsx** -- for the tests covered
+
 **The rationale behind choosing playwright is** 
   - Auto wait capablity
   - Cross browser compatablity
